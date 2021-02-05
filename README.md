@@ -35,4 +35,4 @@ for example:
 
 **NOTE**: *This project was made to help Windows users to use GNU Make on Windows machines, it is not like GNU Make because of copyright*
 
-Manage is also avaliable for Windows, Linux, and macOS (darwin)
+Manage is also available for Windows, Linux, and macOS (darwin)
